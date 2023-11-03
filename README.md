@@ -1,9 +1,10 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Event listing project 
+Mainly for colleges to simplify hosting events and also to make sure that no events gets missed. This tool can be helpful for both students and organizers.
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Shivani Nair [https://github.com/ShivaniNair2003]
+2. Sivani L R [https://github.com/sivani-l-r]
+3. Namitha S [https://github.com/Namitha-S-11465]
 ## Team Id
 Team id here
 ## Link to product walkthrough
